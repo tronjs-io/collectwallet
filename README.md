@@ -1,1 +1,1 @@
-# collectwallet
+# connectwallet
